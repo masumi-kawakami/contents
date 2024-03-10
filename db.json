@@ -1,0 +1,19 @@
+{
+  "contents": [
+    {
+      "id": "abc1",
+      "name": "ポケモン",
+      "index": 0
+    },
+    {
+      "id": "abc2",
+      "name": "ワンピース",
+      "index": 1
+    },
+    {
+      "id": "abc3",
+      "name": "遊戯王",
+      "index": 2
+    }
+  ]
+}
