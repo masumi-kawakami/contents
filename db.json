@@ -15,5 +15,9 @@
       "name": "遊戯王",
       "index": 2
     }
-  ]
+  ],
+  "result": {
+    "item": "はずれ",
+    "videoSrc": "/slot_hazure.mp4"
+  }
 }
