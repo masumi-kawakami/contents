@@ -17,7 +17,58 @@
     }
   ],
   "result": {
-    "item": "はずれ",
-    "videoSrc": "/slot_hazure.mp4"
+    "videoSrc": "/slot_hazure.mp4",
+    "item": [
+      {
+        "id": "1",
+        "point": 2000000,
+        "imageSrc": "/ririe.jpeg"
+      },
+      {
+        "id": "2",
+        "point": 300,
+        "imageSrc": "/hazure.jpeg"
+      },
+      {
+        "id": "3",
+        "point": 300,
+        "imageSrc": "/hazure.jpeg"
+      },
+      {
+        "id": "4",
+        "point": 300,
+        "imageSrc": "/hazure.jpeg"
+      },
+      {
+        "id": "5",
+        "point": 300,
+        "imageSrc": "/hazure.jpeg"
+      },
+      {
+        "id": "6",
+        "point": 300,
+        "imageSrc": "/hazure.jpeg"
+      },
+      {
+        "id": "7",
+        "point": 300,
+        "imageSrc": "/hazure.jpeg"
+      },
+      {
+        "id": "8",
+        "point": 300,
+        "imageSrc": "/hazure.jpeg"
+      },
+      {
+        "id": "9",
+        "point": 300,
+        "imageSrc": "/hazure.jpeg"
+      },
+      {
+        "id": "10",
+        "point": 300,
+        "imageSrc": "/hazure.jpeg"
+      }
+    ]
   }
 }
